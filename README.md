@@ -7,7 +7,8 @@ Welcome to vSPACE! This user guideline will walk you through the features and fu
 % Cartnorm, OA
 
 # ZZPlot
-**What is zzplot?**\\
+**What is zzplot?**
+
 ZZPlot offers a powerful platform for visualizing data using Z scores. Users can Experiment with different datasets and customize options to gain valuable insights from your data.
 
 **How to use it**
