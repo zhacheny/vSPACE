@@ -13,7 +13,7 @@ Z-ZPlot offers a powerful platform for visualizing data using Z scores. Users ca
 - Begin by inputting your data for the x and y axes. This would utilize the provided space to generate your Z-ZPlot. You can also customize your plot by adjusting the data points and zones (deep, mid, sup zone) as needed.
 - You can explore the capability to visualize multiple genes simultaneously on the Z-ZPlot. Input various genes and observe their distributions and correlations within the plot.
 - *Distribution table* : Users can access the Distribution Table feature to view the most correlated genes. Please utilize this information to refine your visualization by selecting correlated genes to add to the plot.
-- You can also download cell information by selecting the region of interest on the Z-ZPlot (Simply, just drag the area you want to choose!). 
+- You can also download cell information by selecting the region of interest on the Z-ZPlot (Simply, just drag the area you want to choose and hit the 'Download Selected Cells' button!). 
 
 # Analysis modes
 **Mode 1 : Use Gradient Color**:
