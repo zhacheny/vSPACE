@@ -3,11 +3,10 @@ vSPACE: Exploring Virtual Spatial Representation of Articular Chondrocytes at th
 This user guideline will walk you through the features and functionalities of the webpage, which could not only empower your research by analyzing and visualizing your data but also assist you in examining your hypothesis.
 
 # Sample Data
-There are two types of data samples, Cartnorm and OA. 6 OA and 6 normal samples are obtained from NCBI GSE220244(https://ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220244). One more OA data is added from NCBI GSE104782(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104782). The GSE104782 data has been merged and processed.
+There are two types of data samples, OA and Cartnorm. 6 OA and 6 normal samples are obtained from NCBI GSE220244(https://ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220244). One more OA data is added from NCBI GSE104782(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104782). The GSE104782 data has been merged and processed.
 
 # Z-ZPlot 
 **What is Z-ZPlot?**
-
 Z-ZPlot offers a powerful platform for visualizing data using Z scores. Users can Experiment with different datasets and customize options to gain valuable insights from your data.
 
 **How to use it**
