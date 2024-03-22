@@ -31,6 +31,5 @@ Z-ZPlot offers a powerful platform for visualizing data using Z scores. Users ca
 ![UseCellSelection](https://github.com/zhacheny/vSPACE/assets/163660925/f9b38143-ba25-4bd7-86d5-cb9e8cffc8f9)
 
 
-## Data availability
-All the example data and analytic code for this web service are available at:
-https://github.com/zhacheny/vSPACE
+## Acknowledgements
+Research reported in this work was supported in part by NIH Grant No. U54AR078664 and its NOSI supplement. Its contents are solely the responsibil-ity of the authors and do not necessarily represent the official views of the NIH.
