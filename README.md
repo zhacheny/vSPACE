@@ -12,6 +12,14 @@ There are two types of data samples, OA and Cartnorm. 6 OA and 6 normal samples 
 **What is Z-ZPlot?**
 Z-ZPlot offers a powerful platform for visualizing data using Z scores. Users can Experiment with different datasets and customize options to gain valuable insights from your data.
 
+**Key Terms Explained**
+- Y-axis H threshold: estimated zonal score threshold for superficial zone and middle zone (Default set to 0.79, it can be adjusted by dragging the horizontal line);
+- Y-axis L threshold: estimated zonal score threshold for middle zone, and deep zone (Default set to -0.99, it can be adjusted by dragging the horizontal line)
+![image](https://github.com/zhacheny/vSPACE/assets/17793217/6c621bb5-26b6-4bd0-a5ad-e534ad5487cb)
+
+- DO: Drop out cells; MWDO: Mean with drop out cells; MWODO: Mean wiout Drop out cells;
+- %Total, %Sup, %Mid and %Deep: the percentages of expressing cells in relation to the total population, superficial zone, middle zone, and deep zone, respectively
+
 **How to use it**
 - Begin by inputting your data for the x and y axes. This would utilize the provided space to generate your Z-ZPlot. You can also customize your plot by adjusting the data points and zones (deep, mid, sup zone) as needed.
 - You can explore the capability to visualize multiple genes simultaneously on the Z-ZPlot. Input various genes and observe their distributions and correlations within the plot.
