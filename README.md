@@ -39,14 +39,14 @@ Z-ZPlot offers a powerful platform for visualizing data using Z scores. Users ca
 ![UseCellSelection](https://github.com/zhacheny/vSPACE/assets/163660925/f9b38143-ba25-4bd7-86d5-cb9e8cffc8f9)
 
 # Citation
-'''
-@article{vspace,
+
+`@article{vspace,
   title={vSPACE: Exploring Virtual Spatial Representation of Articular Chondrocytes at the Single-Cell Level},
   author={Zhang, C., Wang, H., Hong, S. H., Olmer, M., Swahn, H., Lotz, M. K., Maye, P., Rowe, D., & Shin, D. G. (2024).},
   journal={bioRxiv},
   doi={10.1101/2024.02.07.577817}
-}
-'''
+}`
+
 
 
 ## Acknowledgements
