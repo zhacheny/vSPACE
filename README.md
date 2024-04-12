@@ -17,8 +17,8 @@ Z-ZPlot offers a powerful platform for visualizing data using Z scores. Users ca
 - Y-axis L threshold: estimated zonal score threshold for middle zone, and deep zone (Default set to -0.99, it can be adjusted by dragging the horizontal line)
 ![image](https://github.com/zhacheny/vSPACE/assets/17793217/6c621bb5-26b6-4bd0-a5ad-e534ad5487cb)
 
-- DO: Drop out cells; MWDO: Mean with drop out cells; MWODO: Mean wiout Drop out cells;
-- %Total, %Sup, %Mid and %Deep: the percentages of expressing cells in relation to the total population, superficial zone, middle zone, and deep zone, respectively
+- DO: Drop-out cells; MWDO: Mean with drop-out cells; MWODO: Mean without Drop out cells;
+- %Total, %Sup, %Mid, and %Deep: the percentages of expressing cells concerning the total population, superficial zone, middle zone, and deep zone, respectively
 
 **How to use it**
 - Begin by inputting your data for the x and y axes. This would utilize the provided space to generate your Z-ZPlot. You can also customize your plot by adjusting the data points and zones (deep, mid, sup zone) as needed.
@@ -33,11 +33,19 @@ Z-ZPlot offers a powerful platform for visualizing data using Z scores. Users ca
 ![UseGradientColor](https://github.com/zhacheny/vSPACE/assets/163660925/7f64a7ed-04b4-4db2-86d3-a5f79bf9cd7d)
 
 **Mode 2 : Use Cell Selection**:
-- In this mode, you can select multiple genes for analysis. After Z-ZPlot is generated, hit the "Run" button to perform statistical tests. This feature identifies candidate cells based on the selected genes and displays highly correlated genes in order.
+- In this mode, you can select multiple genes for analysis. After generating Z-ZPlot, hit the "Run" button to perform statistical tests. This feature identifies candidate cells based on the selected genes and displays highly correlated genes in order.
 - Adjust the area of the plot using the "High", "Low", and "Absent" options to refine your analysis.
 - Users can add more genes to analyze on the list. 
 ![UseCellSelection](https://github.com/zhacheny/vSPACE/assets/163660925/f9b38143-ba25-4bd7-86d5-cb9e8cffc8f9)
 
+# Citation
+@article{vspace,
+  title={vSPACE: Exploring Virtual Spatial Representation of Articular Chondrocytes at the Single-Cell Level},
+  author={Zhang, C., Wang, H., Hong, S. H., Olmer, M., Swahn, H., Lotz, M. K., Maye, P., Rowe, D., & Shin, D. G. (2024).},
+  journal={bioRxiv},
+  doi={10.1101/2024.02.07.577817}
+}
+
 
 ## Acknowledgements
-Research reported in this work was supported in part by NIH Grant No. U54AR078664 and its NOSI supplement. Its contents are solely the responsibil-ity of the authors and do not necessarily represent the official views of the NIH.
+Research reported in this work was supported in part by NIH Grant No. U54AR078664 and its NOSI supplement. Its contents are solely the responsibility of the authors and do not necessarily represent the official views of the NIH.
