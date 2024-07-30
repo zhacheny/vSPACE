@@ -6,7 +6,7 @@ This user guideline will walk you through the features and functionalities of th
 https://vspace.cse.uconn.edu/
 
 # Sample Data
-There are two types of data samples, OA and Cartnorm. 6 normal samples () and 6 OA samples () are obtained from NCBI GSE220244(https://ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220244). One more OA data (OA _10_patients-Pooled) is added from NCBI GSE104782(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104782). The GSE104782 data has been merged and processed.
+There are two types of data samples, OA and Cartnorm. 6 normal samples (1. CartNorm1_31_F_G1; 2. CartNorm2_24_M_G0; 3. CartNorm3_20_M_G0; 4. CartNorm4_56_M_G1; 5. CartNorm5_49_M_G2; 6. CartNorm6_27_F_G0) and 6 OA samples (7. OA1_67_F; 8. OA2_72_F; 9. OA3_69_F; 10. OA4_61_F; 11. OA5_71_M; 12. OA6_69_M) are obtained from NCBI GSE220244(https://ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220244). One more OA data (13. OA _10_patients-Pooled) is added from NCBI GSE104782(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104782). The GSE104782 data has been merged and processed.
 
 # Z-ZPlot 
 **What is Z-ZPlot?**
